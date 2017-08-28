@@ -30,3 +30,7 @@ $ gem install github-linguist
   1. (Optional) The epoch of the day when to stop looking (`1490313600` in the example). This was introduced to allow stopping on a particular day when checking.
 
  - Output will be located in the `/output` directory in both jpg and json formats
+ 
+ Sample output:
+  ![Sample output](https://user-images.githubusercontent.com/1011549/29772101-d10322c6-8bff-11e7-899d-3694e52936c3.jpg)
+  
